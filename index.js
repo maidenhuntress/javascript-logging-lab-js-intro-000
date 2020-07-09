@@ -1,6 +1,3 @@
-console.error(hey)
-console.log(hey)
-console.warn(watch out!)
 console.error("hey")
 console.log("hey there")
 console.warn("watch out!")
